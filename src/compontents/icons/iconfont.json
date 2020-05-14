@@ -1,0 +1,58 @@
+{
+  "id": "1801452",
+  "name": "app",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2493728",
+      "name": "日历",
+      "font_class": "rili",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "9620831",
+      "name": " 闹钟",
+      "font_class": "naozhong",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "11226802",
+      "name": "全部",
+      "font_class": "quanbu",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "13812202",
+      "name": "红旗",
+      "font_class": "hongqi",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "9687132",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8118266",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e6e0",
+      "unicode_decimal": 59104
+    },
+    {
+      "icon_id": "2182603",
+      "name": "会话",
+      "font_class": "huihua",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    }
+  ]
+}

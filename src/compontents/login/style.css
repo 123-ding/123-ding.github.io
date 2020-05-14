@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    margin-top: 50px; }
+
+.login-form {
+    max-width: 300px;
+    margin: 100px auto !important; }
+.login-form .ant-form-item-with-help {
+    margin-bottom: 28px !important; }
+
+.login-form-button {
+    width: 100%; }
+
+.login-form-forgot {
+    float: right; }
